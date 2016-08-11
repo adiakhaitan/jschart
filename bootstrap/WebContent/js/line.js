@@ -18,7 +18,7 @@ var chart = AmCharts.makeChart("container", {
         "uk": 3,
         "max":0 ,
         "maximum":6,
-       "customBullet":"bullet-black.png",
+       "customBullet":"images/bullet-black.png",
         //"bulletColor":
         },
         
@@ -29,7 +29,7 @@ var chart = AmCharts.makeChart("container", {
         "uk": 6,
         "max":0 ,
         "maximum":6,
-        "customBullet":"bullet-green.png"
+        "customBullet":"images/bullet-green.png"
     }, {
         "month": 'mar',
         "italy": 2,
@@ -37,7 +37,7 @@ var chart = AmCharts.makeChart("container", {
         "uk": 1,
         "maximum":3,
         "max":0,
-        "customBullet":"blue-bullet-icone-5638-32.png"
+        "customBullet":"images/blue-bullet-icone-5638-32.png"
        
     }, {
         "month": 'apr',
@@ -46,7 +46,7 @@ var chart = AmCharts.makeChart("container", {
         "uk": 1,
         "maximum":4,
         "max":0,
-        "customBullet":"blue-bullet-icone-5638-32.png"
+        "customBullet":"images/blue-bullet-icone-5638-32.png"
     }, {
         "month": 'may',
         "italy": 5,
@@ -54,7 +54,7 @@ var chart = AmCharts.makeChart("container", {
         "uk": 2,
         "maximum":5,
         "max":0,
-        "customBullet":"bullet-black.png"
+        "customBullet":"images/bullet-black.png"
     }, {
         "month": 'jun',
         "italy": 3,
@@ -62,7 +62,7 @@ var chart = AmCharts.makeChart("container", {
         "uk": 1,
         "maximum":6,
         "max":0,
-        "customBullet":"bullet-green.png"
+        "customBullet":"images/bullet-green.png"
     }, {
         "month": 'jul',
         "italy": 1,
@@ -70,7 +70,7 @@ var chart = AmCharts.makeChart("container", {
         "uk": 3,
         "maximum":3,
         "max":0,
-        "customBullet":"bullet-green.png"
+        "customBullet":"images/bullet-green.png"
     }, {
         "month": 'aug',
         "italy": 2,
@@ -78,7 +78,7 @@ var chart = AmCharts.makeChart("container", {
         "uk": 5,
         "maximum":5,
         "max":0,
-        "customBullet":"bullet-green.png"
+        "customBullet":"images/bullet-green.png"
     }, {
         "month": 'sep',
         "italy": 3,
@@ -86,7 +86,7 @@ var chart = AmCharts.makeChart("container", {
         "uk": 2,
         "maximum":5,
         "max":0,
-        "customBullet":"blue-bullet-icone-5638-32.png"
+        "customBullet":"images/blue-bullet-icone-5638-32.png"
     }, {
         "month": 'oct',
         "italy": 4,
@@ -94,7 +94,7 @@ var chart = AmCharts.makeChart("container", {
         "uk": 6,
         "maximum":6,
         "max":0,
-        "customBullet":"bullet-green.png"
+        "customBullet":"images/bullet-green.png"
     }, {
         "month": 'nov',
         "italy": 1,
@@ -102,7 +102,7 @@ var chart = AmCharts.makeChart("container", {
         "uk": 4,
         "maximum":4,
         "max":0,
-        "customBullet":"bullet-green.png"
+        "customBullet":"images/bullet-green.png"
     }],
     "valueAxes": [{
         "integersOnly": true,
