@@ -18,8 +18,7 @@ var chart = AmCharts.makeChart("container", {
         "uk": 3,
         "max":0 ,
         "maximum":6,
-       "customBullet":"images/bullet-black.png",
-        //"bulletColor":
+       "customBullet":"images/bullet-black.png"
         },
         
         {
@@ -120,14 +119,14 @@ var chart = AmCharts.makeChart("container", {
         "balloonText": "loan taken by Italy in [[category]]: [[value]]",
         "hidden": false,
         /*"bullet": "diamond",*/
-        "color":"blue",
+        "color":"black",
         "title": "Italy",
         "valueField": "italy",
 		"fillAlphas": 0
     }, {
         "balloonText": "loan taken by Germany in [[category]]: [[value]]",
       /*  "bullet": "diamond",*/
-        "color":"yellow",
+        "color":"blue",
         "title": "Germany",
         "valueField": "germany",
 		"fillAlphas": 0
